@@ -1,0 +1,40 @@
+# Image Credits
+
+All images used in this project are from free stock photo websites and are used under their respective licenses.
+
+## Sources
+
+- **Unsplash** (https://unsplash.com)
+  - License: Unsplash License (Free to use)
+  - Images: Hero backgrounds, feature images
+
+- **Pexels** (https://pexels.com)
+  - License: Pexels License (Free to use)
+  - Images: Testimonial avatars, plan illustrations
+
+- **Picsum Photos** (https://picsum.photos)
+  - License: Creative Commons (Free to use)
+  - Images: Placeholder images for development
+
+## Attribution
+
+While not required by the licenses, we acknowledge and thank all photographers who contributed their work to these platforms.
+
+## Usage
+
+All images are used in accordance with their respective licenses:
+- Free for commercial and non-commercial use
+- No attribution required (but appreciated)
+- Modification allowed
+
+## Note for Developers
+
+If you replace these images with your own:
+1. Ensure you have the rights to use them
+2. Update this credits file accordingly
+3. Optimize images for web (WebP format recommended)
+4. Use appropriate alt text for accessibility
+
+---
+
+Last updated: 2025-01-20
